@@ -95,6 +95,10 @@ llab.empty_matchsequence_page_URL = llab.llab_path + "html/empty-matchsequence-p
 
 // e.g:
 //  llab.strings.clickNav = "Navigation&nbsp;";
+llab.CORSproxy = "";
+
+llab.CORSCompliantServers.push("localhost:8002");
+llab.CORSCompliantServers.push("chadstolper.github.io");
 
 
 
