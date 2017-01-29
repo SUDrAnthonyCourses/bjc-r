@@ -100,7 +100,7 @@ llab.empty_matchsequence_page_URL = llab.llab_path + "html/empty-matchsequence-p
 
 // e.g:
 //  llab.strings.clickNav = "Navigation&nbsp;";
-llab.CORSproxy = "http://crossorigin.me/";
+// llab.CORSproxy = "http://crossorigin.me/";
 
 llab.CORSCompliantServers.push("localhost:8002");
 llab.CORSCompliantServers.push("chadstolper.github.io");
