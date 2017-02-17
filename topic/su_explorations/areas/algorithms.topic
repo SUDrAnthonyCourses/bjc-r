@@ -17,11 +17,8 @@ learning-goal: Hiding algorithmic details behind a layer of abstraction makes it
 
   resource: Everyone's Got Algorithms [/bjc-r/cur/programming/algorithms/everyones-got-algorithms.html]
 
-  forum: Trash or Treasure? [/bjc-r/cur/programming/algorithms/trash-or-treasure.html]
-  // forum: Trash or Treasure? [http://veritas.eecs.berkeley.edu/courses/mod/forum/view.php?id=1773]
-  resource: (group work) Experiencing Algorithms [/bjc-r/cur/programming/algorithms/experiencing-algorithms.html]
-  // resource: (group work) Searching [/bjc-r/cur/programming/algorithms/group-work-searching.html]
-  // resource: (group work) The Need for Speed [/bjc-r/cur/programming/algorithms/group-work-the-need-for-speed.html]
+  // forum: Trash or Treasure? [/bjc-r/cur/programming/algorithms/trash-or-treasure.html]
+  // resource: (group work) Experiencing Algorithms [/bjc-r/cur/programming/algorithms/experiencing-algorithms.html]
   resource: Algorithms in Snap<em>!</em> [/bjc-r/cur/programming/algorithms/algorithms-in-snap.html]
   resource: Improving Our Number Finder [/bjc-r/cur/programming/algorithms/improving-our-number-finder.html]
   resource: Too Many Blocks! [/bjc-r/cur/programming/algorithms/too-many-blocks.html]
