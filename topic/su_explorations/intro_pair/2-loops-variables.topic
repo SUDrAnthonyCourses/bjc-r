@@ -1,4 +1,4 @@
-title: Looping and Custom Blocks
+title: Build Your Own Blocks
 
 {
 
@@ -33,7 +33,7 @@ heading: Making your own blocks
   //resource: introduce varibles a bit here?
   resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?3]
   resource: Make a "draw polygon" block [/bjc-r/cur/programming/functions/make-a-draw-polygon-block.html]
-  resource: Bug Dance! [/bjc-r/cur/programming/functions/intro/bug-dance.html]
+  //resource: Bug Dance! [/bjc-r/cur/programming/functions/intro/bug-dance.html]
 
 
 
@@ -52,6 +52,8 @@ heading: Using randomness
   quiz: Understanding The Random Block [/bjc-r/cur/programming/random/Test-Yourself-random.html]
   resource: Draw a field of flowers [/bjc-r/cur/programming/functions/draw-field-of-flowers.html]
 
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
 
 
 
