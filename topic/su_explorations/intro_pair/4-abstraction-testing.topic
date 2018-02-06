@@ -1,4 +1,4 @@
-title: Abstraction and Testing
+title: Functions
 {
 
 
@@ -21,19 +21,23 @@ heading: Testing your code
   resource: The Check Block [/bjc-r/cur/programming/debugging/the-check-block.html]
   //resource: Using The Check Block [/bjc-r/cur/programming/debugging/using-the-check-block.html]
 
-heading: Abstraction
-
-  resource: Brick Wall [/bjc-r/cur/programming/abstraction/new-brick-wall.html]
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?3]
 
 heading: Programs with Multiple Sprites
 
+  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
   resource: Experiment with a short Snap<em>!</em> play [/bjc-r/cur/programming/concurrency/snap/snap-play-learn-broadcast.html]
   quiz: Test Yourself: Go Team! [/bjc-r/cur/programming/intro/snap/test-yourself-go-team.html]
   quiz: Test Yourself: Different ways to broadcast [/bjc-r/cur/programming/concurrency/snap/quiz-different-ways-to-broadcast.html]
   resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
   resource: More "Message" Passing [/bjc-r/cur/programming/concurrency/snap/more-message-passing.html]
   resource: Global Variables [/bjc-r/cur/programming/variables/global-variables.html]
+
+
+heading: Abstraction
+
+  resource: Brick Wall [/bjc-r/cur/programming/abstraction/new-brick-wall.html]
+//  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?3]
+
 
 //heading: Variables and custom blocks
   // quiz: Change a global variable within a block [http://veritas.eecs.berkeley.edu/courses/mod/quiz/view.php?id=13992]
@@ -48,6 +52,8 @@ heading: Programs with Multiple Sprites
 //  quiz: Change a regular variable within a block [http://veritas.eecs.berkeley.edu/courses/mod/quiz/view.php?id=13992]
 //  resource: Conflicts between regular variables and block variables [/bjc-r/cur/programming/functions/conflicts-between-regular-variables-and-block-variables.html]
 
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
 
 
 }
